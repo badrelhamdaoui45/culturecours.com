@@ -1,0 +1,130 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Mar 2024 16:14:33 at https://culturecours.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://culturecours.com -O1 "C:\My Web Sites\https___culturecours.com_11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:17:02	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/nice-select.css?ver=6.4.3 (from https://culturecours.com/)
+16:17:17	Error: 	"Forbidden" (403) at link https://culturecours.com/xmlrpc.php?rsd (from https://culturecours.com/)
+16:17:24	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-cp/
+16:17:24	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-cp/ to https://culturecours.com/soutien-scolaire-niveau-cp/
+16:17:24	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-ce1/
+16:17:24	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-ce1/ to https://culturecours.com/soutien-scolaire-niveau-ce1/
+16:17:24	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-ce2/
+16:17:24	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-ce2/ to https://culturecours.com/soutien-scolaire-niveau-ce2/
+16:17:24	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-cm1/
+16:17:24	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-cm1/ to https://culturecours.com/soutien-scolaire-niveau-cm1/
+16:17:28	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-cm2/
+16:17:28	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-cm2/ to https://culturecours.com/soutien-scolaire-niveau-cm2/
+16:17:28	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-sixieme/
+16:17:28	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-sixieme/ to https://culturecours.com/soutien-scolaire-niveau-sixieme/
+16:17:29	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-cinquieme/
+16:17:29	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-cinquieme/ to https://culturecours.com/soutien-scolaire-niveau-cinquieme/
+16:17:29	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-quatrieme/
+16:17:29	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-quatrieme/ to https://culturecours.com/soutien-scolaire-niveau-quatrieme/
+16:17:32	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-troisieme/
+16:17:32	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-troisieme/ to https://culturecours.com/soutien-scolaire-niveau-troisieme/
+16:17:32	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-seconde/
+16:17:32	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-seconde/ to https://culturecours.com/soutien-scolaire-niveau-seconde/
+16:17:33	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-premiere/
+16:17:33	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-premiere/ to https://culturecours.com/soutien-scolaire-niveau-premiere/
+16:17:33	Warning: 	Moved Permanently for https://culturecours.com/culturecours/soutien-scolaire-niveau-terminale/
+16:17:33	Warning: 	File has moved from https://culturecours.com/culturecours/soutien-scolaire-niveau-terminale/ to https://culturecours.com/soutien-scolaire-niveau-terminale/
+16:17:51	Warning: 	Moved Permanently for https://culturecours.com/culturecours/nos-professeurs/
+16:17:51	Warning: 	File has moved from https://culturecours.com/culturecours/nos-professeurs/ to https://culturecours.com/nos-professeurs/
+16:17:51	Warning: 	Moved Permanently for https://culturecours.com/culturecours/nos-tarifs/
+16:17:51	Warning: 	File has moved from https://culturecours.com/culturecours/nos-tarifs/ to https://culturecours.com/nos-tarifs/
+16:17:52	Warning: 	Moved Permanently for https://culturecours.com/culturecours/condition-generale/
+16:17:52	Warning: 	File has moved from https://culturecours.com/culturecours/condition-generale/ to https://culturecours.com/condition-generale/
+16:17:52	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/plugins/zoomy-core/assets/js/jquery.nice-select.js?ver=1.0 (from https://culturecours.com/)
+16:17:53	Error: 	"Not Found" (404) at link https://www.unilien.fr/rappels_immediats/back/node_modules/socket.io/client-dist/socket.io.js (from https://culturecours.com/)
+16:17:53	Error: 	"Not Found" (404) at link https://culturecours.com/POST (from https://culturecours.com/)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/beginning_of_summer_3.woff2 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/beginning_of_summer_3.woff (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer.woff2 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer.woff (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer.ttf (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:54	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer_1.woff2 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:55	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer_1.woff (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:17:55	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/BeginningofSummer_1.ttf (from https://culturecours.com/wp-content/themes/zoomy/assets/css/font.css?ver=6.4.3)
+16:18:00	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-brands-400.eot (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:00	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-brands-400.eot? (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:00	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-brands-400.ttf (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:00	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-brands-400.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:00	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.eot (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:01	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.eot? (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:01	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.woff2 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:01	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.woff (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:02	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.ttf (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:05	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-duotone-900.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:06	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-light-300.eot (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:07	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-light-300.eot? (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:08	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-light-300.woff (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:08	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-light-300.ttf (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:09	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-light-300.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:09	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-regular-400.eot (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:09	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-regular-400.eot? (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:09	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-regular-400.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:09	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-solid-900.eot (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:10	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-solid-900.eot? (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:10	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/fonts/fa-solid-900.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/all.min.css?ver=6.4.3)
+16:18:14	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.ttf?2db7b555443fe323de9d3af8428b51c7 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.css?ver=6.4.3)
+16:18:15	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.woff?2db7b555443fe323de9d3af8428b51c7 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.css?ver=6.4.3)
+16:18:16	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.woff2?2db7b555443fe323de9d3af8428b51c7 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.css?ver=6.4.3)
+16:18:17	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.eot?2db7b555443fe323de9d3af8428b51c7 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.css?ver=6.4.3)
+16:18:17	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.svg?2db7b555443fe323de9d3af8428b51c7 (from https://culturecours.com/wp-content/themes/zoomy/assets/css/flaticon.css?ver=6.4.3)
+16:18:18	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/img/shape/line-border.svg (from https://culturecours.com/wp-content/themes/zoomy/assets/css/main.css?ver=6.4.3)
+16:18:19	Error: 	"Not Found" (404) at link https://culturecours.com/wp-content/themes/zoomy/assets/img/testimonial/map-dot.png (from https://culturecours.com/wp-content/themes/zoomy/assets/css/main.css?ver=6.4.3)
+16:18:29	Warning: 	Moved Permanently for https://culturecours.com/?p=3027
+16:18:29	Warning: 	File has moved from https://culturecours.com/?p=3027 to https://culturecours.com/nous-decouvrir/
+16:18:29	Error: 	"Not Found" (404) at link https://culturecours.com/nous-decouvrir/POST (from https://culturecours.com/nous-decouvrir/)
+16:20:01	Warning: 	Moved Permanently for https://culturecours.com/?p=8644
+16:20:01	Warning: 	File has moved from https://culturecours.com/?p=8644 to https://culturecours.com/nos-professeurs/
+16:20:02	Error: 	"Not Found" (404) at link https://culturecours.com/nos-professeurs/POST (from https://culturecours.com/nos-professeurs/)
+16:20:03	Warning: 	Moved Permanently for https://culturecours.com/?p=7161
+16:20:03	Warning: 	File has moved from https://culturecours.com/?p=7161 to https://culturecours.com/nos-tarifs/
+16:20:04	Error: 	"Not Found" (404) at link https://culturecours.com/nos-tarifs/POST (from https://culturecours.com/nos-tarifs/)
+16:20:13	Warning: 	Moved Permanently for https://culturecours.com/?p=6823
+16:20:13	Warning: 	File has moved from https://culturecours.com/?p=6823 to https://culturecours.com/soutien-scolaire-niveau-cp/
+16:20:14	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-cp/POST (from https://culturecours.com/soutien-scolaire-niveau-cp/)
+16:20:15	Warning: 	Moved Permanently for https://culturecours.com/?p=7012
+16:20:15	Warning: 	File has moved from https://culturecours.com/?p=7012 to https://culturecours.com/soutien-scolaire-niveau-ce1/
+16:20:15	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-ce1/POST (from https://culturecours.com/soutien-scolaire-niveau-ce1/)
+16:20:16	Warning: 	Moved Permanently for https://culturecours.com/?p=7042
+16:20:16	Warning: 	File has moved from https://culturecours.com/?p=7042 to https://culturecours.com/soutien-scolaire-niveau-ce2/
+16:20:16	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-ce2/POST (from https://culturecours.com/soutien-scolaire-niveau-ce2/)
+16:20:17	Warning: 	Moved Permanently for https://culturecours.com/?p=7055
+16:20:17	Warning: 	File has moved from https://culturecours.com/?p=7055 to https://culturecours.com/soutien-scolaire-niveau-cm1/
+16:20:17	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-cm1/POST (from https://culturecours.com/soutien-scolaire-niveau-cm1/)
+16:20:18	Warning: 	Moved Permanently for https://culturecours.com/?p=7066
+16:20:18	Warning: 	File has moved from https://culturecours.com/?p=7066 to https://culturecours.com/soutien-scolaire-niveau-cm2/
+16:20:18	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-cm2/POST (from https://culturecours.com/soutien-scolaire-niveau-cm2/)
+16:20:19	Warning: 	Moved Permanently for https://culturecours.com/?p=7073
+16:20:19	Warning: 	File has moved from https://culturecours.com/?p=7073 to https://culturecours.com/soutien-scolaire-niveau-sixieme/
+16:20:19	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-sixieme/POST (from https://culturecours.com/soutien-scolaire-niveau-sixieme/)
+16:20:20	Warning: 	Moved Permanently for https://culturecours.com/?p=7093
+16:20:20	Warning: 	File has moved from https://culturecours.com/?p=7093 to https://culturecours.com/soutien-scolaire-niveau-cinquieme/
+16:20:21	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-cinquieme/POST (from https://culturecours.com/soutien-scolaire-niveau-cinquieme/)
+16:20:22	Warning: 	Moved Permanently for https://culturecours.com/?p=7102
+16:20:22	Warning: 	File has moved from https://culturecours.com/?p=7102 to https://culturecours.com/soutien-scolaire-niveau-quatrieme/
+16:20:22	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-quatrieme/POST (from https://culturecours.com/soutien-scolaire-niveau-quatrieme/)
+16:20:24	Warning: 	Moved Permanently for https://culturecours.com/?p=7113
+16:20:24	Warning: 	File has moved from https://culturecours.com/?p=7113 to https://culturecours.com/soutien-scolaire-niveau-troisieme/
+16:20:25	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-troisieme/POST (from https://culturecours.com/soutien-scolaire-niveau-troisieme/)
+16:20:26	Warning: 	Moved Permanently for https://culturecours.com/?p=7126
+16:20:26	Warning: 	File has moved from https://culturecours.com/?p=7126 to https://culturecours.com/soutien-scolaire-niveau-seconde/
+16:20:26	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-seconde/POST (from https://culturecours.com/soutien-scolaire-niveau-seconde/)
+16:20:26	Warning: 	Moved Permanently for https://culturecours.com/?p=7138
+16:20:26	Warning: 	File has moved from https://culturecours.com/?p=7138 to https://culturecours.com/soutien-scolaire-niveau-premiere/
+16:20:26	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-premiere/POST (from https://culturecours.com/soutien-scolaire-niveau-premiere/)
+16:20:26	Warning: 	Moved Permanently for https://culturecours.com/?p=7146
+16:20:26	Warning: 	File has moved from https://culturecours.com/?p=7146 to https://culturecours.com/soutien-scolaire-niveau-terminale/
+16:20:27	Error: 	"Not Found" (404) at link https://culturecours.com/soutien-scolaire-niveau-terminale/POST (from https://culturecours.com/soutien-scolaire-niveau-terminale/)
+16:20:27	Warning: 	Moved Permanently for https://culturecours.com/?p=3
+16:20:27	Warning: 	File has moved from https://culturecours.com/?p=3 to https://culturecours.com/condition-generale/
+16:20:27	Error: 	"Not Found" (404) at link https://culturecours.com/condition-generale/POST (from https://culturecours.com/condition-generale/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 53 seconds : 423 links scanned, 334 files written (44017707 bytes overall) [46982984 bytes received at 133096 bytes/sec], 7818339 bytes transferred using HTTP compression in 99 files, ratio 13%, 7.5 requests per connection
+(57 errors, 62 warnings, 0 messages)
